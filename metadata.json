@@ -1,0 +1,6 @@
+{
+  "name": "Jadid IPTV",
+  "description": "A high-performance premium HLS IPTV Player with custom playlist management, search filter system, and gorgeous cyber glassmorphic aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
